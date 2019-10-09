@@ -5,3 +5,4 @@ Programacio II
 model d'objectes
 M9
 Servei Paginas dinamiques
+Ágnes
